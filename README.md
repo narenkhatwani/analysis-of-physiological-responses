@@ -33,4 +33,4 @@ Results are aggregated across all matches and stored in a comprehensive data fra
 
 ### Significance
 
-The findings can provide insights into players' stress management capabilities and help develop strategies to enhance gaming performance. Additionally, understanding physiological responses can aid in the design of more engaging and balanced game environments.
+The findings can provide insights into players' ______ and help develop strategies to enhance gaming performance. Additionally, understanding physiological responses can aid in the design of more engaging and balanced game environments.
