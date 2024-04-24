@@ -2,6 +2,9 @@
 
 ## Title: Analysis of Physiological Responses in League of Legends Players
 
+![image](https://github.com/narenkhatwani/sensor-data-process-gaming-data/assets/48763124/c9bc2525-7b91-4f49-876a-6c1c2c926903)
+
+
 This project works on players' physiological responses during League of Legends matches, specifically focusing on how intense gaming moments, such as kills, influence players' stress levels. By measuring Galvanic Skin Response (GSR) and heart rate variations, we find patterns that might indicate heightened emotional or cognitive stress during gameplay.
 
 ### Objective
