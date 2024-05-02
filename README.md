@@ -37,7 +37,18 @@ In the game League of Legends, defeating opponents, often referred to as securin
 
 **Confidence plays a key role here; a player who hesitates often misses the narrow window of opportunity to take down the opponent.**
 
-This is how we tried visualising Galvanic Skin Response Data (GSR) and Heart Rate Sensor Data (HR) from the data available at 
+This is how we tried visualizing Galvanic Skin Response Data (GSR) and Heart Rate Sensor Data (HR) from the data available at https://github.com/smerdov/eSports_Sensors_Dataset
+
+### Significance of Sensors:
+**Galvanic Skin Response Data (GSR)**
+
+**Tonic Component Graph:** By examining the trend in the tonic component, you can assess how the participant's baseline arousal level changes over time. An increasing trend might suggest growing tension or stress, while a decreasing trend could indicate relaxation.
+
+**Phasic Component Graph:** Looking at the peaks in the phasic component can help you identify moments of acute response. The presence, frequency, and magnitude of these peaks can be linked back to specific events, offering insights into the participant's reactions.
+
+**Heart Rate Sensor (HR):**
+
+
 ### Explanations
 ##### Initial Visualizations:
 Here, below as we can see 
