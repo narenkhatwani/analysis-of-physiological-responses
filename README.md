@@ -35,7 +35,7 @@ In the game League of Legends, defeating opponents, often referred to as securin
 - Confidence and Decision-Making: Effective players gauge when they're in a strong position to secure a kill, understanding their own strength relative to the opponent's. 
 - Execution: Once everything is lined up—the player knows their champion’s combos, understands both champions' strengths and weaknesses, and senses an opportunity—they execute their plan. 
 
-*Confidence plays a key role here; a player who hesitates often misses the narrow window of opportunity to take down the opponent.*
+**Confidence plays a key role here; a player who hesitates often misses the narrow window of opportunity to take down the opponent.**
 
 This is how we tried visualising Galvanic Skin Response Data (GSR) and Heart Rate Sensor Data (HR) from the data available at 
 ### Explanations
