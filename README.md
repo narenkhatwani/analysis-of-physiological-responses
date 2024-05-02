@@ -1,6 +1,10 @@
+**This repository acts as a supplement to my work for CS 725 - Independent Study**
+
 # Project Overview
 
 ## Title: Analysis of Physiological Responses in League of Legends Players
+
+### Project Advisor: Dr Kasthuri Jayarajah
 
 ![image](https://github.com/narenkhatwani/sensor-data-process-gaming-data/assets/48763124/c9bc2525-7b91-4f49-876a-6c1c2c926903)
 
@@ -22,8 +26,21 @@ The main goal is to determine if and how significant gaming events correlate wit
    - **Peak Detection**: Using the `scipy.signal.find_peaks` method, heart rate peaks, and GSR dips are identified for both kill and baseline segments.
    - **t-Test**: To assess statistical significance, a two-sample t-test is applied to compare the mean counts of GSR dips and HR peaks between kill and baseline segments.
 
+
+### Understanding the Game: League of Legends
+In the game League of Legends, defeating opponents, often referred to as securing a "kill," involves a combination of strategy, skill, and timing. There isn't an instant-kill mechanic as every champion (character) in the game has a health bar that needs to be depleted for them to be defeated. Here's a simplified explanation of how a player can kill an opponent in the game:
+
+- Understanding Champion Abilities: Each champion in League of Legends comes with a unique set of abilities, which include basic attacks and four special skills (three basic abilities and one ultimate ability).
+- Effective Use of Combos: Skilled players learn to chain their champion’s abilities in quick succession to maximize damage.
+- Confidence and Decision-Making: Effective players gauge when they're in a strong position to secure a kill, understanding their own strength relative to the opponent's. 
+- Execution: Once everything is lined up—the player knows their champion’s combos, understands both champions' strengths and weaknesses, and senses an opportunity—they execute their plan. 
+
+*Confidence plays a key role here; a player who hesitates often misses the narrow window of opportunity to take down the opponent.*
+
+This is how we tried visualising Galvanic Skin Response Data (GSR) and Heart Rate Sensor Data (HR) from the data available at 
 ### Explanations
-##### 1
+##### Initial Visualizations:
+Here, below as we can see 
 ![Image_1](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/1.png?raw=true)
 ##### 2
 ![Image_2](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/2.png?raw=true)
