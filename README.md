@@ -42,30 +42,36 @@ This is how we tried visualizing Galvanic Skin Response Data (GSR) and Heart Rat
 ### Significance of Sensors:
 **Galvanic Skin Response Data (GSR)**
 
-**Tonic Component Graph:** By examining the trend in the tonic component, you can assess how the participant's baseline arousal level changes over time. An increasing trend might suggest growing tension or stress, while a decreasing trend could indicate relaxation.
 
-**Phasic Component Graph:** Looking at the peaks in the phasic component can help you identify moments of acute response. The presence, frequency, and magnitude of these peaks can be linked back to specific events, offering insights into the participant's reactions.
+
 
 **Heart Rate Sensor (HR):**
 
 
 ### Explanations
-##### Initial Visualizations:
+#### Initial Visualizations:
 Here, below as we can see 
 ![Image_1](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/1.png?raw=true)
-##### 2
+#### GSR Phasic and Tonic Components' Data Visualization
+**Tonic Component Graph:** By examining the trend in the tonic component, you can assess how the participant's baseline arousal level changes over time. An increasing trend might suggest growing tension or stress, while a decreasing trend could indicate relaxation.
+
+**Phasic Component Graph:** Looking at the peaks in the phasic component can help you identify moments of acute response. The presence, frequency, and magnitude of these peaks can be linked back to specific events, offering insights into the participant's reactions.
+
 ![Image_2](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/2.png?raw=true)
-##### 3
+#### Associating Kills and Assists with the tonic and Phasic Component of GSR
 ![Image_3](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/3.png?raw=true)
-##### 4
+#### Scaling to see the results/ eyeballing the results of kill events
 ![Image_4](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/4.png?raw=true)
-##### 5
 ![Image_5](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/5.png?raw=true)
-##### 6
+#### FOrmat of Final Results
 ![Image_6](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/6.png?raw=true)
-##### 7
+
+
+The following graph visualizes the above dataframes which consist of the kill events with the physiological sensors' data 
+
+##### Player 9
 ![Image_7](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/7.png?raw=true)
-##### 8
+##### Player 6
 ![Image_8](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/8.png?raw=true)
 
 ### Results
