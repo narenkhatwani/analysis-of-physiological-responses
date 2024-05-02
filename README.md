@@ -63,7 +63,7 @@ Here, below as we can see
 #### Scaling to see the results/ eyeballing the results of kill events
 ![Image_4](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/4.png?raw=true)
 ![Image_5](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/5.png?raw=true)
-#### FOrmat of Final Results
+#### Format of Final Results
 ![Image_6](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/6.png?raw=true)
 
 
@@ -84,4 +84,4 @@ Results are aggregated across all matches and stored in a comprehensive data fra
 
 ### Significance
 
-The findings can provide insights into players' ______ and help develop strategies to enhance gaming performance. Additionally, understanding physiological responses can aid in the design of more engaging and balanced game environments.
+The findings can provide insights into players' attention & engagement levels and help develop strategies to enhance gaming performance. Additionally, understanding physiological responses can aid in the design of more engaging and balanced game environments.
