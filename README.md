@@ -57,8 +57,13 @@ This is how we tried visualizing Galvanic Skin Response Data (GSR) and Heart Rat
 
 ### Explanations
 #### Initial Visualizations:
-Here, below as we can see 
+Here, below as we can see, the first graph suggests the kill and assist events by players and if we eyeball it we can notice two things:
+- GSR Dips before kills, suggesting that the player was in a aroused/excited state before the kill (supporting the claim of League of Legends Gameplay)
+- Heart Rate peaks after the kill/assist events, suggesting that the player had a moment of excitement/ satisfaction.  
 ![Image_1](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/1.png?raw=true)
+
+There are other metrics which have been recorded and processed by the original contributors (Engagement, Excitement, Stress, Relaxation, Interest and Focus)
+- If you see their correspondance with the kill and assist events, eyeballing the hypothesis becomes easy and leans towards what we are proposing - the gamers were focused and excited into the gameplay more within the threshold window of the kill/assist events.
 #### GSR Phasic and Tonic Components' Data Visualization
 **Tonic Component Graph:** By examining the trend in the tonic component, you can assess how the participant's baseline arousal level changes over time. An increasing trend might suggest growing tension or stress, while a decreasing trend could indicate relaxation.
 
