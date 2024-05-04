@@ -75,6 +75,18 @@ There are other metrics which have been recorded and processed by the original c
 #### Scaling to see the results/ eyeballing the results of kill events
 ![Image_4](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/4.png?raw=true)
 ![Image_5](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/5.png?raw=true)
+
+#### tatistical Analysis:
+   - **Peak Detection**: Using the `scipy.signal.find_peaks` method, heart rate peaks, and GSR dips are identified for both kill and baseline segments.
+   - **t-Test**: To assess statistical significance, a two-sample t-test is applied to compare the mean counts of GSR dips and HR peaks between kill and baseline segments.
+
+#### Deciding the Threshold Window for T-Tests
+> "Deciding the threshold to scan for dips in GSR and peaks in HR was a key factor"
+
+- Earlier as a default approach, we moved to consider the window to be as 10 seconds before and 10 seconds after a kill event
+- The results as we can guess were not good - suggesting that most parameters didn't have a significant p value to be considered
+
+- But we had a hunch using the method of how the game League of Legends is actually played
 #### Format of Final Results
 ![Image_6](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/6.png?raw=true)
 
