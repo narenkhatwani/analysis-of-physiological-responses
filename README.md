@@ -42,7 +42,10 @@ This is how we tried visualizing Galvanic Skin Response Data (GSR) and Heart Rat
 ### Significance of Sensors:
 **Galvanic Skin Response Data (GSR)**
 
-
+**Galvanic Skin Response Data (GSR):**
+- Galvanic Skin Response (GSR) is a measure of the electrical conductance of the skin, which is influenced by changes in sweat gland activity. 
+- GSR sensors are used to detect variations in skin conductance, which can be an indicator of emotional or cognitive arousal. 
+- GSR sensors capture these changes and provide data that can be analyzed to understand the physiological responses of players during gameplay. By examining GSR data, we can gain insights into the level of stress or arousal experienced by players during different gaming events, such as kills in League of Legends matches.
 
 
 **Heart Rate Sensor (HR):**
