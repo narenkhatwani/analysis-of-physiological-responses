@@ -40,7 +40,6 @@ In the game League of Legends, defeating opponents, often referred to as securin
 This is how we tried visualizing Galvanic Skin Response Data (GSR) and Heart Rate Sensor Data (HR) from the data available at https://github.com/smerdov/eSports_Sensors_Dataset
 
 ### Significance of Sensors:
-**Galvanic Skin Response Data (GSR)**
 
 **Galvanic Skin Response Data (GSR):**
 - Galvanic Skin Response (GSR) is a measure of the electrical conductance of the skin, which is influenced by changes in sweat gland activity. 
@@ -49,6 +48,11 @@ This is how we tried visualizing Galvanic Skin Response Data (GSR) and Heart Rat
 
 
 **Heart Rate Sensor (HR):**
+- Heart Rate (HR) is a measure of the number of times the heart beats per minute.
+- HR sensors are used to monitor the heart rate of players during gameplay.
+- Changes in heart rate can indicate physiological arousal, stress, or excitement.
+- By analyzing HR data, we can gain insights into the intensity of players' emotional and cognitive responses during gaming events, such as kills in League of Legends matches.
+- Understanding the relationship between heart rate and gaming events can help us understand the impact of these events on player performance and overall gaming experience.
 
 
 ### Explanations
