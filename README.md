@@ -89,8 +89,10 @@ There are other metrics which have been recorded and processed by the original c
 - But we had a hunch using the method of how the game League of Legends is actually played, a player is quite confident by using the combination of powerups and understand whether the kill would happen or no. And this usually happens earlier that the actual kill event takes place
 - We slowly moved the threshold before the kill event farther and finally consider the thresholds as:
 
+```python
 threshold_before = 20  # seconds before the kill event
 threshold_after = 10  # seconds after the kill event
+```
 
 #### Format of Final Results
 ![Image_6](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/6.png?raw=true)
