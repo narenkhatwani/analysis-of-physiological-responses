@@ -90,13 +90,12 @@ There are other metrics which have been recorded and processed by the original c
 - We slowly moved the threshold before the kill event farther and finally consider the thresholds as:
 
 ```python
-threshold_before = 20  # seconds before the kill event
-threshold_after = 10  # seconds after the kill event
+threshold_before = 35  # seconds before the kill event
+threshold_after = 15  # seconds after the kill event
 ```
 
 #### Format of Final Results
 ![Image_6](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/6.png?raw=true)
-
 
 The following graph visualizes the above dataframes which consist of the kill events with the physiological sensors' data 
 
