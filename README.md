@@ -76,9 +76,25 @@ There are other metrics which have been recorded and processed by the original c
 ![Image_4](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/4.png?raw=true)
 ![Image_5](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/5.png?raw=true)
 
-#### tatistical Analysis:
+#### Statistical Analysis:
    - **Peak Detection**: Using the `scipy.signal.find_peaks` method, heart rate peaks, and GSR dips are identified for both kill and baseline segments.
    - **t-Test**: To assess statistical significance, a two-sample t-test is applied to compare the mean counts of GSR dips and HR peaks between kill and baseline segments.
+
+#### Explaining P - Value
+# Understanding P-Value
+
+The p-value is a statistical tool that helps us determine whether the differences we observe in our data are significant or if they could be just due to random chance. This concept is often used in hypothesis testing to draw conclusions about populations based on sample data.
+
+For instance, consider we have test scores from two different groups of students. One group was taught using a new method (Group A), and the other group was taught using a traditional method (Group B).
+
+**Group A (New Method)**
+The scores for Group A are as follows: 90, 92, 95, 88, 96. The new method seems to be effective as the scores are relatively high.
+
+**Group B (Traditional Method)**
+The scores for Group B are as follows: 85, 87, 84, 88, 86. These scores are slightly lower compared to Group A.
+
+Upon initial observation, it appears that Group A has performed better. However, the question arises - is Group A genuinely more intelligent, or was it just luck? This is where the p-value comes into play. By calculating the p-value, we can determine if the difference in scores between the two groups is statistically significant or if it could be due to random chance.
+
 
 #### Deciding the Threshold Window for T-Tests
 > "Deciding the threshold to scan for dips in GSR and peaks in HR was a key factor"
