@@ -86,7 +86,12 @@ There are other metrics which have been recorded and processed by the original c
 - Earlier as a default approach, we moved to consider the window to be as 10 seconds before and 10 seconds after a kill event
 - The results as we can guess were not good - suggesting that most parameters didn't have a significant p value to be considered
 
-- But we had a hunch using the method of how the game League of Legends is actually played
+- But we had a hunch using the method of how the game League of Legends is actually played, a player is quite confident by using the combination of powerups and understand whether the kill would happen or no. And this usually happens earlier that the actual kill event takes place
+- We slowly moved the threshold before the kill event farther and finally consider the thresholds as:
+
+threshold_before = 20  # seconds before the kill event
+threshold_after = 10  # seconds after the kill event
+
 #### Format of Final Results
 ![Image_6](https://github.com/narenkhatwani/analysis-of-physiological-responses/blob/main/pictures/6.png?raw=true)
 
